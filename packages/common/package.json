@@ -12,6 +12,8 @@
   },
   "devDependencies": {
     "@types/react-native": "^0.61.16",
+    "grunt": "^1.6.1",
+    "grunt-contrib-watch": "^1.1.0",
     "typescript": "^3.8.2"
   }
 }
